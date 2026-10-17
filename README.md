@@ -25,7 +25,7 @@ B.Tech Computer Science graduate (2026) with a 6-month Full-Stack Developer inte
 Excel / Power BI dashboards: Superstore Sales, Swiggy Instamart, Omato Food Delivery, Books Sales, Amazon Sales Analysis.
 
 ## Contact
-Email: pratpdevendr@gmail.com | Portfolio: https://devendrapratap.in | LinkedIn: https://linkedin/in/devendrapratap
+Email: pratpdevendr@gmail.com | Portfolio: https://devendrapratap.in | LinkedIn: [https://linkedin/in/devendrapratap](https://www.linkedin.com/in/devendrapratap/)
 
 
 
